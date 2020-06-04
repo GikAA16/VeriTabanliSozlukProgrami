@@ -243,9 +243,6 @@ namespace sozlukprogrami
             form2.Show();
         }
 
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
+      
     }
 }
